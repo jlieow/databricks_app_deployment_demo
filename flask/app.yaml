@@ -1,0 +1,6 @@
+command: [
+  "flask",
+  "--app",
+  "main.py",
+  "run"
+]
